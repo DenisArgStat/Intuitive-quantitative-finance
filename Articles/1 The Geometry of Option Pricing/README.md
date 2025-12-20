@@ -26,7 +26,7 @@ Links to the Article
 
 You can read the full article online:
 
-📄 Medium: 
+📄 Medium: https://medium.com/@deniskuznetsovnew23/the-geometry-of-option-pricing-an-intuitive-and-visual-guide-5fb238fa5bd3
 💼 LinkedIn: 
 
 Both versions link back to this repository for:
